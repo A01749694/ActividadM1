@@ -2,8 +2,9 @@
 # Código que ejecuta la simulación del modelo de multiagentes
 # Autores: 
 #  - Sebastian Antonio Almanza A01749694
-#  - Ignacio Solís Montes A0175
+#  - Ignacio Solís Montes A01751213
 # Fecha de creación: 05-11-2024
+# Fecha de modificación: 08-11-2024
 # Fecha de entrega: 08-11-2024
 
 from clean_model import CellModel
